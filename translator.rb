@@ -80,6 +80,7 @@ H248_HASH = Hash["A", "Add",
 "K", "TransactionResponseAck",
 "V", "Version",
 "O-", "Optional-",
+"W-", "Wildcarded-",
 ]
 
 class H248_Translator
